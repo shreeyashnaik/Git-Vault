@@ -1,0 +1,4 @@
+config.ini
+
+# Virtual environment
+.venv/
